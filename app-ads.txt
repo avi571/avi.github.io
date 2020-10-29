@@ -1,8 +1,8 @@
 #Last updated September 30th 2020
 #Appodeal
-appodeal.com, 76699, DIRECT
+appodeal.com, 113594, DIRECT
 #BidMachine
-bidmachine.io, 76699, DIRECT
+bidmachine.io, 113594, DIRECT
 #AdMob
 google.com, pub-6225954415653049, DIRECT, f08c47fec0942fa0
 #Facebook
